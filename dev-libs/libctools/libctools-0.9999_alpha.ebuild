@@ -139,7 +139,7 @@ RESTRICT="fetch"
 	# visual clue to others that the makefiles have bugs that have been
 	# worked around.
 
-#	emake
+	#emake
 #}
 
 # The following src_install function is implemented as default by portage, so
